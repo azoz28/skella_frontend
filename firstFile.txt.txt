@@ -5,3 +5,5 @@ add description
 
 
 add image profile
+
+add footer labeling
